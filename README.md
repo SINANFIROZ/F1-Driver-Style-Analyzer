@@ -39,8 +39,8 @@ A Streamlit web application that analyzes and compares Formula 1 drivers' drivin
 
 ## Data Source
 
-This application uses the [FastF1](https://github.com/theOehrly/Fast-F1) Python package to access official Formula 1 timing data.
-For Documentation [FastF1].(docs.fastf1.dev)
+-This application uses the [FastF1](https://github.com/theOehrly/Fast-F1) Python package to access official Formula 1 timing data.
+-For Documentation:[FastF1].(https://docs.fastf1.dev/)
 
 ## Requirements
 
